@@ -1,0 +1,7 @@
+*.elf
+Engine.elf
+*.o
+*.xml
+.replit
+build
+extern

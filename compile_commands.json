@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/runner/DAssetEditor/build",
+  "command": "g++   -I/home/runner/DAssetEditor/include -I/home/runner/DAssetEditor/extern/include -I/home/runner/DAssetEditor/extern -isystem /usr/include    -o CMakeFiles/main.dir/src/GL/Window.cpp.o -c /home/runner/DAssetEditor/src/GL/Window.cpp",
+  "file": "/home/runner/DAssetEditor/src/GL/Window.cpp"
+},
+{
+  "directory": "/home/runner/DAssetEditor/build",
+  "command": "g++   -I/home/runner/DAssetEditor/include -I/home/runner/DAssetEditor/extern/include -I/home/runner/DAssetEditor/extern -isystem /usr/include    -o CMakeFiles/main.dir/src/Main.cpp.o -c /home/runner/DAssetEditor/src/Main.cpp",
+  "file": "/home/runner/DAssetEditor/src/Main.cpp"
+}
+]
