@@ -5,3 +5,4 @@ Engine.elf
 .replit
 build
 extern
+.cache
